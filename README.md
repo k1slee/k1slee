@@ -22,7 +22,9 @@
 
 ## 📂 Избранные проекты
 - [**worktime_tracking**](https://github.com/k1slee/worktime_tracking) — учёт рабочего времени, автозаполнение и печатные формы.
+- [**cartridge tracker**]([[https://github.com/k1slee/cartridge_tracker]]) — учет, картриджей, принтеров и расходников на предприятии.
 - [**json_edit**](https://github.com/k1slee/json_edit) — удобный редактор JSON-структур.
+  
   
 
 ---
