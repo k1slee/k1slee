@@ -13,12 +13,17 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+
 ---
 
 ## 📂 Избранные проекты
 - [**worktime_tracking**](https://github.com/k1slee/worktime_tracking) — учёт рабочего времени, автозаполнение и печатные формы.
 - [**json_edit**](https://github.com/k1slee/json_edit) — удобный редактор JSON-структур.
-- [**timesheet_project**](https://github.com/k1slee/timesheet_project) — табель учёта рабочего времени (HTML).
+  
 
 ---
 
@@ -29,5 +34,5 @@
 ---
 
 ## 📫 Контакты
-- Telegram: [@ваш_ник](https://t.me/ваш_ник)
-- Email: example@mail.com
+- Telegram: [@Trnikk](https://t.me/Trnikk)
+- Email: trofimchuk.nikita10@gmail.com
