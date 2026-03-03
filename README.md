@@ -40,4 +40,4 @@
 ## 📫 Контакты
 - Telegram: [@Trnikk](https://t.me/Trnikk)
 - Email: trofimchuk.nikita10@gmail.com
- красиво оформи мой профиль гит, добавь технологии для пайтон бэк и т.д
+
