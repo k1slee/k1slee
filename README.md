@@ -30,8 +30,9 @@
 ---
 
 ## 📊 Статистика GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=k1slee&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k1slee&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=k1slee&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k1slee&layout=compact&theme=radical&langs_count=8)
+
 
 ---
 
